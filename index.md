@@ -3,6 +3,8 @@
 This is a super nifty tool to find the closest named CSS color:  
 [enes.in/sorted-colors/](enes.in/sorted-colors/)
 
-sdfsdf
+Here's a great list of ways to manipulate the HTML Dom with vanilla JS:  
+[htmldom.dev/](htmldom.dev/)
 
-sdfsdf
+ModernCSS.dev has in-depth tutorials to help upgrade your CSS skills  
+[ModernCSS.dev](ModernCSS.dev)
