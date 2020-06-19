@@ -2,18 +2,21 @@
 
 ## Diverse links til værktøjer der kan bruges til web udvikling
 
-This is a super nifty tool to find the closest named CSS color:  
-[enes.in/sorted-colors/](https://enes.in/sorted-colors/)
+## Highlights
 
-Here's a great list of ways to manipulate the HTML Dom with vanilla JS:  
-[htmldom.dev/](https://htmldom.dev/)
+Just an awesome site with a lot of usefull information  
+[dev.io](https://dev.to/)
 
-ModernCSS.dev has in-depth tutorials to help upgrade your CSS skills  
-[ModernCSS.dev](https://moderncss.dev)
+Vue.js for building websites
+[vuejs.org](https://vuejs.org/)
 
 Ready to use Tailwind CSS blocks
 [Tailblocks](https://github.com/mertJF/tailblocks)
 
+## Bunch of links
+
 | Description | Link |
 |---|---|
 | This is a super nifty tool to find the closest named CSS color | [enes.in/sorted-colors/](https://enes.in/sorted-colors/) |
+| Here's a great list of ways to manipulate the HTML Dom with vanilla JS| [htmldom.dev/](https://htmldom.dev/) |
+| ModernCSS.dev has in-depth tutorials to help upgrade your CSS skills | [ModernCSS.dev](https://moderncss.dev) |
