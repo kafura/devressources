@@ -2,7 +2,7 @@
 
 ## Diverse links til værktøjer der kan bruges til web udvikling
 
-## Highlights
+### Highlights
 
 Just an awesome site with a lot of usefull information  
 [dev.io](https://dev.to/)
@@ -13,7 +13,7 @@ Vue.js for building websites
 Ready to use Tailwind CSS blocks
 [Tailblocks](https://github.com/mertJF/tailblocks)
 
-## Bunch of links
+### Bunch of links
 
 | Description | Link |
 |---|---|
