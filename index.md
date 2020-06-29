@@ -20,3 +20,4 @@ Ready to use Tailwind CSS blocks
 | This is a super nifty tool to find the closest named CSS color | [enes.in/sorted-colors/](https://enes.in/sorted-colors/) |
 | Here's a great list of ways to manipulate the HTML Dom with vanilla JS| [htmldom.dev/](https://htmldom.dev/) |
 | ModernCSS.dev has in-depth tutorials to help upgrade your CSS skills | [ModernCSS.dev](https://moderncss.dev) |
+| A tool for creating css animation | [Animista](https://animista.net/play/basic) |
