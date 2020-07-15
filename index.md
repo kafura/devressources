@@ -21,3 +21,4 @@ Ready to use Tailwind CSS blocks
 | Here's a great list of ways to manipulate the HTML Dom with vanilla JS| [htmldom.dev/](https://htmldom.dev/) |
 | ModernCSS.dev has in-depth tutorials to help upgrade your CSS skills | [ModernCSS.dev](https://moderncss.dev) |
 | A tool for creating css animation | [Animista](https://animista.net/play/basic) |
+| Color palette awesome page | [happyhues](https://www.happyhues.co/) |
